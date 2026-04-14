@@ -1,4 +1,4 @@
-## Łukasz Wysocki, Python Engineer @ Foodsteps
+## Łukasz Wysocki, Software Engineer @ Foodsteps
 
 Haskell Enjoyer
 
